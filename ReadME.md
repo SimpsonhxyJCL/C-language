@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimpsonhxyJCL
-- 👀 I’m interested in C/C++ \ Linux \ Computer System \ QT \ MySQL
+- 👀 I’m interested in C/C++  \ Java \ Javascript \ Computer Science \ Linux  \ MySQL
 - 🌱 I’m currently learning C/C++ Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
